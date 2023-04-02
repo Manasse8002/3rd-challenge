@@ -1,0 +1,19 @@
+{
+  "name": "3rd-challenge",
+  "version": "1.0.0",
+  "description": "Challenge-3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manasse8002/3rd-challenge.git"
+  },
+  "author": "Manasse K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manasse8002/3rd-challenge/issues"
+  },
+  "homepage": "https://github.com/Manasse8002/3rd-challenge#readme"
+}
